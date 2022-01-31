@@ -1,4 +1,4 @@
-# Diagonstic-Center-Portal-C#-.Net-
+# Diagnostic-Center-Portal-C#-.Net-
 Portal is build by using C# ,.Net covering all the CRUD operations . This portal can be used to register Patients and doctors and also you can print the test report.
 ![P1](https://user-images.githubusercontent.com/82303448/151756357-b7d20f14-54da-4333-92e9-9cefee9f5a34.PNG)
 ![p2](https://user-images.githubusercontent.com/82303448/151756360-a9045b01-25a5-4607-9759-4ae7eac3b393.PNG)
