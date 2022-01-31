@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\bin\Debug\Diagnostic Center.exe.config
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\bin\Debug\Diagnostic Center.exe
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\bin\Debug\Diagnostic Center.pdb
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Login.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Splash.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.exe
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Patients.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Tests.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Invoice.resources
+C:\Users\Student\source\repos\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic_Center.Dashboard.resources
